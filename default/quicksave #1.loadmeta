@@ -11,4 +11,4 @@ missionCurrentScore = 0
 missionIsStarted = False
 missionIsEnded = False
 missionHistoryId = 00000000-0000-0000-0000-000000000000
-saveMD5 = d9c675a2f8abd5ede1c7592447a57f46
+saveMD5 = 82400002a6337a0ba4614049d3a4bf87
